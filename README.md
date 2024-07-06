@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Myself Subhendu !!</h1>
-<h3 align="center">A Statistician & Data Science Enthusiast</h3>
+<h3 align="center">A Statistician & Data Scientist</h3>
 
 - 📫 How to reach me **samanta.stats@gmail.com**
 
