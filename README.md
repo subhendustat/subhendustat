@@ -16,7 +16,7 @@
 - **Programming Languages:** Python, R
 - **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch
 - **Natural Language Processing:** BERT, HuggingFace, NLTK, SpaCy, Generative AI, BERTopic
-- **Machine Learning & Deep Learning:** Supervised and Unsupervised Learning, RNN, SMOTE
+- **Machine Learning & Deep Learning:** Supervised and Unsupervised Learning, Linear Regression, Logistic Regression, SVM, Decision Tree, Random Forest, XG Bosst, CatBoost, RNN, SMOTE
 - **Tools & Platforms:** Google Colab, Jupyter, Git, Azure (Learning & Certification in progress)
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Tableau
 - **Domains:** FMCG (Market Research), Pharma, RHCG (Retail)
@@ -72,7 +72,6 @@ For more projects, check out my [GitHub repositories](#).
 
 ### 📜 Certifications
 - Azure Data Scientist (In Progress)
-- [Add any other relevant certifications]
 
 ---
 
